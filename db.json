@@ -5,7 +5,11 @@
       "data": {
         "assets": [],
         "styles": [],
-        "pages": []
+        "pages": [
+          {
+            "component": "sample page"
+          }
+        ]
       }
     }
   ]
